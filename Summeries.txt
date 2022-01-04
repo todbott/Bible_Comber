@@ -1,0 +1,357 @@
+Genesis
+**Writer:** Moses
+**Place Written:** Wilderness
+**Writing Completed:** 1513 B.C.E.
+**Time Covered:** “In the beginning” to 1657 B.C.E.
+--break--
+Exodus
+**Writer:** Moses
+**Place Written:** Wilderness
+**Writing Completed:** 1512 B.C.E.
+**Time Covered:** 1657-1512 B.C.E.
+--break--
+Leviticus
+**Writer:** Moses
+**Place Written:** Wilderness
+**Writing Completed:** 1512 B.C.E.
+**Time Covered:** 1 month (1512 B.C.E.)
+--break--
+Numbers
+**Writer:** Moses
+**Place Written:** Wilderness and Plains of Moab
+**Writing Completed:** 1473 B.C.E.
+**Time Covered:** 1512-1473 B.C.E.
+--break--
+Deuteronomy
+**Writer:** Moses
+**Place Written:** Plains of Moab
+**Writing Completed:** 1473 B.C.E.
+**Time Covered:** 2 months (1473 B.C.E.)
+--break--
+Joshua
+**Writer:** Joshua
+**Place Written:** Canaan
+**Writing Completed:** c. 1450 B.C.E.
+**Time Covered:** 1473–c. 1450 B.C.E.
+--break--
+Judges
+**Writer:** Samuel
+**Place Written:** Israel
+**Writing Completed:** c. 1100 B.C.E.
+**Time Covered:** c. 1450–c. 1120 B.C.E.
+--break--
+Ruth
+**Writer:** Samuel
+**Place Written:** Israel
+**Writing Completed:** c. 1090 B.C.E.
+**Time Covered:** 11 years of judges’ rule
+--break--
+1 Samuel
+**Writers:** Samuel, Gad, Nathan
+**Place Written:** Israel
+**Writing Completed:** c. 1078 B.C.E.
+**Time Covered:** c. 1180–1078 B.C.E.
+--break--
+2 Samuel
+**Writers:** Gad and Nathan
+**Place Written:** Israel
+**Writing Completed:** c. 1040 B.C.E.
+**Time Covered:** 1077–c. 1040 B.C.E.
+--break--
+1 Kings
+**Writer:** Jeremiah
+**Place Written:** Jerusalem and Judah
+**Writing Completed:** 580 B.C.E.
+**Time Covered:** c. 1040–911 B.C.E.
+--break--
+2 Kings
+**Writer:** Jeremiah
+**Places Written:** Jerusalem and Egypt
+**Writing Completed:** 580 B.C.E.
+**Time Covered:** c. 920–580 B.C.E.
+--break--
+1 Chronicles
+**Writer:** Ezra
+**Place Written:** Jerusalem (?)
+**Time of Writing:** c. 460 B.C.E.
+**Time Covered:** After 1 Chronicles 9:44: 1077–1037 B.C.E.
+--break--
+2 Chronicles
+**Writer:** Ezra
+**Place Written:** Jerusalem (?)
+**Writing Completed:** c. 460 B.C.E.
+**Time Covered:** 1037–537 B.C.E.
+--break--
+Ezra
+**Writer:** Ezra
+**Place Written:** Jerusalem
+**Writing Completed:** c. 460 B.C.E.
+**Time Covered:** 537–c. 467 B.C.E.
+--break--
+Nehemiah
+**Writer:** Nehemiah
+**Place Written:** Jerusalem
+**Writing Completed:** After 443 B.C.E.
+**Time Covered:** 456–after 443 B.C.E.
+--break--
+Esther
+**Writer:** Mordecai
+**Places Written:** Shushan, Elam
+**Writing Completed:** c. 475 B.C.E.
+**Time Covered:** 493-c. 475 B.C.E.
+--break--
+Job
+**Writer:** Moses
+**Place Written:** Wilderness
+**Writing Completed:** c. 1473 B.C.E.
+**Time Covered:** Over 140 years between 1657 and 1473 B.C.E.
+--break--
+Psalms
+**Writers:** David and others
+**Writing Completed:** c. 460 B.C.E.
+--break--
+Proverbs
+**Speakers:** Solomon, Agur, Lemuel
+**Place Written:** Jerusalem
+**Writing Completed:** c. 717 B.C.E.
+--break--
+Ecclesiastes
+**Writer:** Solomon
+**Place Written:** Jerusalem
+**Writing Completed:** Before 1000 B.C.E.
+--break--
+The Song of Solomon
+**Writer:** Solomon
+**Place Written:** Jerusalem
+**Writing Completed:** c. 1020 B.C.E.
+--break--
+Isaiah
+**Writer:** Isaiah
+**Place Written:** Jerusalem
+**Writing Completed:** After 732 B.C.E.
+**Time Covered:** c. 778–after 732 B.C.E.
+--break--
+Jeremiah
+**Writer:** Jeremiah
+**Places Written:** Judah and Egypt
+**Writing Completed:** 580 B.C.E.
+**Time Covered:** 647–580 B.C.E.
+--break--
+Lamentations
+**Writer:** Jeremiah
+**Place Written:** Near Jerusalem
+**Writing Completed:** 607 B.C.E.
+--break--
+Ezekiel
+**Writer:** Ezekiel
+**Place Written:** Babylon
+**Writing Completed:** c. 591 B.C.E.
+**Time Covered:** 613–c. 591 B.C.E.
+--break--
+Daniel
+**Writer:** Daniel
+**Place Written:** Babylon
+**Writing Completed:** c. 536 B.C.E.
+**Time Covered:** 618–c. 536 B.C.E.
+--break--
+Hosea
+**Writer:** Hosea
+**Place Written:** Samaria (District)
+**Writing Completed:** After 745 B.C.E.
+**Time Covered:** Before 804–after 745 B.C.E.
+--break--
+Joel
+**Writer:** Joel
+**Place Written:** Judah
+**Writing Completed:** c. 820 B.C.E. (?)
+--break--
+Amos
+**Writer:** Amos
+**Place Written:** Judah
+**Writing Completed:** c. 804 B.C.E.
+--break--
+Obadiah
+**Writer:** Obadiah
+**Writing Completed:** c. 607 B.C.E.
+--break--
+Jonah
+**Writer:** Jonah
+**Writing Completed:** c. 844 B.C.E.
+--break--
+Micah
+**Writer:** Micah
+**Place Written:** Judah
+**Writing Completed:** Before 717 B.C.E.
+**Time Covered:** c. 777–717 B.C.E.
+--break--
+Nahum
+**Writer:** Nahum
+**Place Written:** Judah
+**Writing Completed:** Before 632 B.C.E.
+--break--
+Habakkuk
+**Writer:** Habakkuk
+**Place Written:** Judah
+**Writing Completed:** c. 628 B.C.E.(?)
+--break--
+Zephaniah
+**Writer:** Zephaniah
+**Place Written:** Judah
+**Writing Completed:** Before 648 B.C.E.
+--break--
+Haggai
+**Writer:** Haggai
+**Place Written:** Jerusalem
+**Writing Completed:** 520 B.C.E.
+**Time Covered:** 112 days (520 B.C.E.)
+--break--
+Zechariah
+**Writer:** Zechariah
+**Place Written:** Jerusalem
+**Writing Completed:** 518 B.C.E.
+**Time Covered:** 520–518 B.C.E.
+--break--
+Malachi
+**Writer:** Malachi
+**Place Written:** Jerusalem
+**Writing Completed:** After 443 B.C.E.
+--break--
+Matthew
+**Writer:** Matthew
+**Place Written:** Palestine
+**Writing Completed:** c. 41 C.E.
+**Time Covered:** 2 B.C.E.–33 C.E.
+--break--
+Mark
+**Writer:** Mark
+**Place Written:** Rome
+**Writing Completed:** c. 60–65 C.E.
+**Time Covered:** 29–33 C.E.
+--break--
+Luke
+**Writer:** Luke
+**Place Written:** Caesarea
+**Writing Completed:** c. 56–58 C.E.
+**Time Covered:** 3 B.C.E.–33 C.E.
+--break--
+John
+**Writer:** Apostle John
+**Place Written:** Ephesus or near
+**Writing Completed:** c. 98 C.E.
+**Time Covered:** After prologue, 29–33 C.E.
+--break--
+Acts
+**Writer:** Luke
+**Place Written:** Rome
+**Writing Completed:** c. 61 C.E.
+**Time Covered:** 33–c. 61 C.E.
+--break--
+Romans
+**Writer:** Paul
+**Place Written:** Corinth
+**Writing Completed:** c. 56 C.E.
+--break--
+1 Corinthians
+**Writer:** Paul
+**Place Written:** Ephesus
+**Writing Completed:** c. 55 C.E.
+--break--
+2 Corinthians
+**Writer:** Paul
+**Place Written:** Macedonia
+**Writing Completed:** c. 55 C.E.
+--break--
+Galatians
+**Writer:** Paul
+**Place Written:** Corinth or Syrian Antioch
+**Writing Completed:** c. 50–52 C.E.
+--break--
+Ephesians
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 60–61 C.E.
+--break--
+Philippians
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 60–61 C.E.
+--break--
+Colossians
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 60–61 C.E.
+--break--
+1 Thessalonians
+**Writer:** Paul
+**Place Written:** Corinth
+**Writing Completed:** c. 50 C.E.
+--break--
+2 Thessalonians
+**Writer:** Paul
+**Place Written:** Corinth
+**Writing Completed:** c. 51 C.E.
+--break--
+1 Timothy
+**Writer:** Paul
+**Place Written:** Macedonia
+**Writing Completed:** c. 61–64 C.E.
+--break--
+2 Timothy
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 65 C.E.
+--break--
+Titus
+**Writer:** Paul
+**Place Written:** Macedonia (?)
+**Writing Completed:** c. 61–64 C.E.
+--break--
+Philemon
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 60–61 C.E.
+--break--
+Hebrews
+**Writer:** Paul
+**Place Written:** Rome
+**Writing Completed:** c. 61 C.E.
+--break--
+James
+**Writer:** James
+**Place Written:** Jerusalem
+**Writing Completed:** Before 62 C.E.
+--break--
+1 Peter
+**Writer:** Peter
+**Place Written:** Babylon
+**Writing Completed:** c. 62–64 C.E.
+--break--
+2 Peter
+**Writer:** Peter
+**Place Written:** Babylon (?)
+**Writing Completed:** c. 64 C.E.
+--break--
+1 John
+**Writer:** Apostle John
+**Place Written:** Ephesus, or near
+**Writing Completed:** c. 98 C.E.
+--break--
+2 John
+**Writer:** Apostle John
+**Place Written:** Ephesus, or near
+**Writing Completed:** c. 98 C.E.
+--break--
+3 John
+**Writer:** Apostle John
+**Place Written:** Ephesus, or near
+**Writing Completed:** c. 98 C.E.
+--break--
+Jude
+**Writer:** Jude
+**Place Written:** Palestine (?)
+**Writing Completed:** c. 65 C.E.
+--break--
+Revelation
+**Writer:** Apostle John
+**Place Written:** Patmos
+**Writing Completed:** c. 96 C.E.
